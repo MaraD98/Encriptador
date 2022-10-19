@@ -1,40 +1,36 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: F3FSFC;
+    background: #d8dfe8;
 }
 .container{
     margin: auto;
     width: 960px;
     height: 650px;
     padding: 5px;
-    background: blue;
 }
 .logo{
     width: 100%;
     float: left;
-    background: yellow;
 }
 .left{
     width: 70%;
     float: left;
     height: 70%;
     border-radius: 24px;
-    background: red;
 }
 .right{
     width: 30%;
     float: right;
     height: auto;
     border-radius: 24px;
-    background: orange;
+    background: white;
 }
 .left-button{
     float: left;
     width: 70%;
     height: auto;
     border-radius: 24px;
-    background: pink;
 }
 .logoImg{
     margin-top: 1%;
@@ -91,4 +87,14 @@ body{
     border-radius: 24px;
     margin-left: 10%;
     background: #d8dfe8;
+}
+#copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height:10%;
+    background: #d8dfe8;
+    border-radius: 24px;
+    display: none;
 }
