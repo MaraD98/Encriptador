@@ -1,7 +1,9 @@
 body{
     margin: 0px;
     padding: 0px;
-    background: #d8dfe8;
+    background-image: url("https://4.bp.blogspot.com/-hlvg5gBqY4A/V5QaCnYv8kI/AAAAAAAACRs/EtkDg_zO6jwROm0yILme3F7VZJjOxyfxQCLcB/s1600/lluvia%2Bde%2Bestrellas%2B2.gif");
+    background-repeat: repeat;
+    font-family: "Lato", sans-serif;
 }
 .container{
     margin: auto;
@@ -16,7 +18,7 @@ body{
 .left{
     width: 70%;
     float: left;
-    height: 70%;
+    height: 60%;
     border-radius: 24px;
 }
 .right{
@@ -24,7 +26,7 @@ body{
     float: right;
     height: auto;
     border-radius: 24px;
-    background: white;
+    background: #d8dfe82e;
 }
 .left-button{
     float: left;
@@ -33,24 +35,29 @@ body{
     border-radius: 24px;
 }
 .logoImg{
+    width: 8%;
     margin-top: 1%;
     margin-left: 5%;
     float: inherit;
 }
 .tittle{
     float: inherit;
-    margin-left: 20%;
+    margin-left: 10%;
+    color: #c09ada;
+    font-size: 25px;
+    font-weight: 800;
 }
 .text-input{
     float: left;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 1%;
     width: 80%;
     height: 80%;
     color: #0A3871;
     font-size: 20px;
     border: none;
     outline: none;
+    border-radius: 24px;
 }
 #imgDer{
     margin-left: 2%;
@@ -97,4 +104,16 @@ body{
     background: #d8dfe8;
     border-radius: 24px;
     display: none;
+}
+
+#imgFooter{
+    width: 7%;
+    margin-left: 31.5%;
+}
+
+#pFooter{
+    font-size: 15px;
+    color: #c09ada;
+    font-weight: 800;
+    margin-left: 20%;
 }
