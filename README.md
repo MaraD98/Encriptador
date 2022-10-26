@@ -1,10 +1,10 @@
-### Desafio Encriptador de Texto - ALURA LATAM - ORACLE ONE EDUCATION
+## Desafio Encriptador de Texto - ALURA LATAM - ORACLE ONE EDUCATION
 
 ------------
 - Link del proyecto abajo 👇
 
 ------------
-#####Tecnologías utilizadas
+### Tecnologías utilizadas
 
 CSS / JS / HTML
 
@@ -26,12 +26,13 @@ Las "llaves" de encriptación que utilizo son las siguientes:
 * Debe ser posible convertir una palabra para la versión encriptada, pero también debe devolver una palabra encriptada a su versión original.
 * La pagina debe estar construida visualmente usando HTML y CSS.
 
-Por ejemplo:` "gato" => "gaitober"` `gaitober" => "gato"`
+Por ejemplo: `"gato" => "gaitober"` `gaitober" => "gato"`
 
 ------------
-##### Diseño
+### Diseño
 
-![Encriptador](D:\cursos\Oracle-Alura\Encriptador\Encriptador\img\Muñeco.svg "Encriptador")
+![portada](https://user-images.githubusercontent.com/84547390/197933776-f976933e-93c1-4c43-956d-777096fe2313.png)
+
 ------------
 
-### [Ir a la página 👈](http://https://marad98.github.io/Encriptador/ "Ir a la página 👈")
+## [Ir a la página 👈](http://https://marad98.github.io/Encriptador/ "Ir a la página 👈")
